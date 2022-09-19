@@ -1,0 +1,26 @@
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\bin\Debug\net6.0\appsettings.Development.json
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\bin\Debug\net6.0\appsettings.json
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\bin\Debug\net6.0\Lab 8.1 PersonalWebsite.staticwebassets.runtime.json
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\bin\Debug\net6.0\Lab 8.1 PersonalWebsite.exe
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\bin\Debug\net6.0\Lab 8.1 PersonalWebsite.deps.json
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\bin\Debug\net6.0\Lab 8.1 PersonalWebsite.runtimeconfig.json
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\bin\Debug\net6.0\Lab 8.1 PersonalWebsite.dll
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\bin\Debug\net6.0\Lab 8.1 PersonalWebsite.pdb
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\obj\Debug\net6.0\Lab 8.1 PersonalWebsite.csproj.AssemblyReference.cache
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\obj\Debug\net6.0\Lab 8.1 PersonalWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\obj\Debug\net6.0\Lab 8.1 PersonalWebsite.AssemblyInfoInputs.cache
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\obj\Debug\net6.0\Lab 8.1 PersonalWebsite.AssemblyInfo.cs
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\obj\Debug\net6.0\Lab 8.1 PersonalWebsite.csproj.CoreCompileInputs.cache
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\obj\Debug\net6.0\Lab 8.1 PersonalWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\obj\Debug\net6.0\Lab 8.1 PersonalWebsite.RazorAssemblyInfo.cache
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\obj\Debug\net6.0\Lab 8.1 PersonalWebsite.RazorAssemblyInfo.cs
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\obj\Debug\net6.0\staticwebassets.build.json
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\obj\Debug\net6.0\staticwebassets.development.json
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\obj\Debug\net6.0\scopedcss\bundle\Lab 8.1 PersonalWebsite.styles.css
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\obj\Debug\net6.0\scopedcss\projectbundle\Lab 8.1 PersonalWebsite.bundle.scp.css
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\obj\Debug\net6.0\Lab 8.1 PersonalWebsite.dll
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\obj\Debug\net6.0\refint\Lab 8.1 PersonalWebsite.dll
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\obj\Debug\net6.0\Lab 8.1 PersonalWebsite.pdb
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\obj\Debug\net6.0\Lab 8.1 PersonalWebsite.genruntimeconfig.cache
+C:\Grand Circus\Week8\Lab 8.1 PersonalWebsite\obj\Debug\net6.0\ref\Lab 8.1 PersonalWebsite.dll
