@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tMameN6xoe0cxjE7PTJgyagoZk8w/SRlUQxs0cklxQU=",
+  "Hash": "pimhwaUdheJDCkBCErMdRsXajh0gDpv2ugLQ6XOdmGk=",
   "Source": "Lab 8.1 PersonalWebsite",
   "BasePath": "_content/Lab 8.1 PersonalWebsite",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\About.html"
+    },
+    {
+      "Identity": "C:\\Grand Circus\\Week8\\Lab 8.1 PersonalWebsite\\wwwroot\\Bulbasaur Anatomy.jpg",
+      "SourceId": "Lab 8.1 PersonalWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Grand Circus\\Week8\\Lab 8.1 PersonalWebsite\\wwwroot\\",
+      "BasePath": "_content/Lab 8.1 PersonalWebsite",
+      "RelativePath": "Bulbasaur Anatomy.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Bulbasaur Anatomy.jpg"
     },
     {
       "Identity": "C:\\Grand Circus\\Week8\\Lab 8.1 PersonalWebsite\\wwwroot\\Bulbasaur.jpeg",
